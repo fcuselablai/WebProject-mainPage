@@ -6,7 +6,7 @@
     <div class="wrapper">
         <div class="content">
             <div class="ig-img">
-                <img class="img-ig" src="/PG/demo/public/img_logo/logo.png" alt="logo">
+                <img class="img-ig" src="/public/img_logo/logo.png" alt="logo">
             </div>
             <form autocomplete="off" action="">
                 <div class="input-group">
@@ -29,11 +29,11 @@
             </div>
             <div class="btns">
                 <button onclick="window.location.href='https://www.facebook.com/?locale=zh_TW';">
-                    <span><img class="fb-logo" src="/PG/demo/public/img_logo/fbLogo.png" alt="FB Logo"></span>
+                    <span><img class="fb-logo" src="/public/img_logo/fbLogo.png" alt="FB Logo"></span>
                     <span id="loginFB">Log in with Facebook</span>
                 </button>
                 <button onclick="window.location.href='https://www.instagram.com/';">
-                    <span><img class="ig-logo" src="/PG/demo/public/img_logo/igLogo.jpeg" alt="IG Logo"></span>
+                    <span><img class="ig-logo" src="/public/img_logo/igLogo.jpeg" alt="IG Logo"></span>
                     <span id="loginIG">Log in with Instagram</span>
                 </button>
 

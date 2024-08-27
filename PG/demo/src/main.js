@@ -1,8 +1,8 @@
 import { createApp } from 'vue'
 import { createRouter, createWebHistory } from 'vue-router'
 import App from './App.vue'
-import logIn from './components/logIn.vue'
-import singUp from './components/singUp.vue'
+import logIn from './views/logIn.vue'
+import singUp from './views/singUp.vue'
 
 import carousel from './components/carousel.vue'
 import card from './components/card.vue'

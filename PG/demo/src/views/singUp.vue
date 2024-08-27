@@ -4,7 +4,7 @@
         <div class="wrapper">
             <div class="content">
                 <div class="ig-img">
-                    <img class="img-ig" src="/PG/demo/public/img_logo/logo.png" alt="logo">
+                    <img class="img-ig" src="/public/img_logo/logo.png" alt="logo">
                 </div>
                 <form autocomplete="off" id="signupForm" action="">
                     <div class="input-group">
